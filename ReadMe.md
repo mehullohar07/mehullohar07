@@ -4,7 +4,7 @@
 
 💻 Python Developer | AI Enthusiast | Future Software Engineer
 
-🤖 Currently Building: Ashwatthama AI Assistant
+🤖 Currently Working: RUDHRA-AI Assistant
 
 🔐 Interested in Artificial Intelligence, Cybersecurity and Software Development
 
@@ -25,6 +25,9 @@
 ### Programming
 - Python
 - SQL
+- html
+- css
+- Bootstrap 
 
 ### Development
 - Object-Oriented Programming (OOP)
@@ -45,7 +48,7 @@
 
 ## 📚 Currently Learning
 
-- Python Development
+- Python 
 - Data Structures & Algorithms (DSA)
 - Software Engineering
 - Advanced Web Development
@@ -56,7 +59,7 @@
 
 ## 🤖 Featured Project
 
-### Ashwatthama AI Assistant
+### RUDHRA-AI Assistant
 
 A Python-based personal assistant currently under development.
 
@@ -84,7 +87,7 @@ Python-based multi-threaded port scanner.
 ### 🔐 Password Strength Checker
 Checks password security and provides suggestions.
 
-### 🤖 Ashwatthama AI Assistant
+### 🤖 RUDHRA-AI Assistant
 Personal AI assistant built with Python.
 
 ---
@@ -92,7 +95,7 @@ Personal AI assistant built with Python.
 ## 🎯 Goals for 2026
 
 - Complete BCA Successfully
-- Build Ashwatthama AI Assistant
+- Build RUDHRA-AI Assistant
 - Master Python Development
 - Learn Machine Learning Fundamentals
 - Upload 10+ Quality Projects on GitHub
@@ -120,6 +123,8 @@ Personal AI assistant built with Python.
 📧 Email: mehullohar07@gmail.com
 
 💻 GitHub: https://github.com/mehullohar07
+
+🌐 LinkedIn: https://www.linkedin.com/in/mehullohar07/
 
 ---
 
