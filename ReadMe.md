@@ -1,134 +1,122 @@
-# Hi, I'm Mehul Lohar 👋
+Hi, I'm Mehul Lohar 👋
 
-🎓 BCA Student (5th Semester)
+Python Developer | BCA Student | Aspiring AI Engineer
 
-💻 Python Developer | AI Enthusiast | Future Software Engineer
+I'm a BCA student passionate about Python development, Artificial Intelligence, and building practical software solutions.
 
-🤖 Currently Working: RUDHRA-AI Assistant
+Currently focused on developing RUDHRA AI, an AI-powered personal assistant, while strengthening my skills in software development, problem-solving, and backend engineering.
 
-🔐 Interested in Artificial Intelligence, Cybersecurity and Software Development
-
----
-
-## 🚀 About Me
-
-- Pursuing BCA
-- Learning Python and Software Development
-- Building real-world projects to improve programming skills
-- Exploring Artificial Intelligence and Machine Learning
-- Passionate about creating useful applications and automation tools
+- 🎓 BCA Student (5th Semester)
+- 💻 Focused on Python Development and Backend Programming
+- 🤖 Building RUDHRA AI – An AI-powered personal assistant
+- 🔐 Interested in AI, Cybersecurity, and Software Engineering
+- 💼 Exploring Python Developer Internship Opportunities
 
 ---
 
-## 🛠 Skills
+🛠️ Technical Skills
 
-### Programming
+Programming Languages
+
 - Python
 - SQL
-- html
-- css
-- Bootstrap 
 
-### Development
-- Object-Oriented Programming (OOP)
-- Software Engineering Fundamentals
-- Advanced Web Development
+Web Technologies
 
-### Tools
+- HTML
+- CSS
+- Bootstrap
+
+Developer Tools
+
 - Git
 - GitHub
 - VS Code
 
-### Fundamentals
-- Networking Basics
-- Problem Solving
-- Debugging
+Core Concepts
+
+- Object-Oriented Programming (OOP)
+- Software Engineering Fundamentals
+- Networking Fundamentals
+- Problem Solving & Debugging
 
 ---
 
-## 📚 Currently Learning
+🚀 Featured Project
 
-- Python 
+🤖 RUDHRA AI – Personal AI Assistant
+
+An AI-powered personal assistant built using Python, designed to understand natural-language requests and perform useful tasks.
+
+Key Features & Technologies
+
+- Python-based AI backend
+- Groq API integration
+- AI-powered conversational responses
+- Command handling and PC automation
+- Voice interaction with speech recognition and text-to-speech
+- Modular project architecture
+- Environment-based configuration
+
+Tech Stack: Python | Groq API | Tkinter | Speech Recognition
+
+Project Status: Active Development
+
+🔗 "View RUDHRA AI on GitHub" (https://github.com/mehullohar07/RUDHRA-AI)
+
+---
+
+💻 Other Projects
+
+🔍 Network Port Scanner
+
+A Python-based network utility that explores network ports and introduces practical networking concepts.
+
+🔐 Password Strength Checker
+
+A Python application that evaluates password strength and provides security improvement suggestions.
+
+---
+
+📜 Certifications
+
+- Deloitte Australia Cyber Job Simulation – Forage (September 2025)
+- Tata Cybersecurity Analyst Job Simulation – Forage (September 2025)
+
+---
+
+📚 Currently Learning
+
+- Python Development
 - Data Structures & Algorithms (DSA)
-- Software Engineering
-- Advanced Web Development
+- Backend Development
 - Artificial Intelligence
 - Machine Learning Fundamentals
+- Software Development Practices
 
 ---
 
-## 🤖 Featured Project
+🎯 2026 Goals
 
-### RUDHRA-AI Assistant
-
-A Python-based personal assistant currently under development.
-
-#### Features
-
-- Chat Commands
-- PC Automation
-- Open Notepad
-- Open Calculator
-- Open Chrome
-- Open Paint
-- Open VS Code
-- Current Date & Time
-- Modular Project Structure
-
-**Status:** Active Development 🚀
+- Strengthen Python and problem-solving skills.
+- Build and improve real-world software projects.
+- Develop RUDHRA AI into a more capable personal assistant.
+- Gain practical industry experience through an internship.
+- Build a strong GitHub portfolio.
+- Explore Artificial Intelligence and Machine Learning.
 
 ---
 
-## 💼 Projects
+📫 Connect With Me
 
-### 🔍 Network Port Scanner
-Python-based multi-threaded port scanner.
-
-### 🔐 Password Strength Checker
-Checks password security and provides suggestions.
-
-### 🤖 RUDHRA-AI Assistant
-Personal AI assistant built with Python.
+- Email: "mehullohar07@gmail.com" (mailto:mehullohar07@gmail.com)
+- GitHub: "@mehullohar07" (https://github.com/mehullohar07)
+- LinkedIn: "Mehul Lohar" (https://www.linkedin.com/in/mehullohar07/)
+- [Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehuuuull )
 
 ---
 
-## 🎯 Goals for 2026
-
-- Complete BCA Successfully
-- Build RUDHRA-AI Assistant
-- Master Python Development
-- Learn Machine Learning Fundamentals
-- Upload 10+ Quality Projects on GitHub
-- Become Internship Ready
-- Prepare for Higher Studies and Research Opportunities
-
----
-
-## 📈 Current Focus
-
- Python Development
-        ↓
-       DSA
-        ↓
-  Project Building
-        ↓
-  Machine Learning
-        ↓
-  AI Development
-
----
-
-## 📫 Connect With Me
-
-📧 Email: mehullohar07@gmail.com
-
-💻 GitHub: https://github.com/mehullohar07
-
-🌐 LinkedIn: https://www.linkedin.com/in/mehullohar07/
-
----
-
-⭐ "Learning, Building and Improving Every Day."
+⭐ Learning by building. Improving through experience.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehuuuull ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehullohar07 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehullohar07@gmail.com) 
