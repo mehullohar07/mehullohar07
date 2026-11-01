@@ -1,6 +1,129 @@
-# 💫 About Me:
-# Hi, I'm Mehul Lohar 👋<br><br>🎓 BCA Student (5th Semester)<br><br>💻 Python Developer | AI Enthusiast | Future Software Engineer<br><br>🤖 Currently Building: Ashwatthama AI Assistant<br><br>🔐 Interested in Artificial Intelligence, Cybersecurity and Software Development<br><br>---<br><br>## 🚀 About Me<br><br>- Pursuing BCA<br>- Learning Python and Software Development<br>- Building real-world projects to improve programming skills<br>- Exploring Artificial Intelligence and Machine Learning<br>- Passionate about creating useful applications and automation tools<br><br>---<br><br>## 🛠 Skills<br><br>### Programming<br>- Python<br>- SQL<br><br>### Development<br>- Object-Oriented Programming (OOP)<br>- Software Engineering Fundamentals<br>- Advanced Web Development<br><br>### Tools<br>- Git<br>- GitHub<br>- VS Code<br><br>### Fundamentals<br>- Networking Basics<br>- Problem Solving<br>- Debugging<br><br>---<br><br>## 📚 Currently Learning<br><br>- Python Development<br>- Data Structures & Algorithms (DSA)<br>- Software Engineering<br>- Advanced Web Development<br>- Artificial Intelligence<br>- Machine Learning Fundamentals<br><br>---<br><br>## 🤖 Featured Project<br><br>### Ashwatthama AI Assistant<br><br>A Python-based personal assistant currently under development.<br><br>#### Features<br><br>- Chat Commands<br>- PC Automation<br>- Open Notepad<br>- Open Calculator<br>- Open Chrome<br>- Open Paint<br>- Open VS Code<br>- Current Date & Time<br>- Modular Project Structure<br><br>**Status:** Active Development 🚀<br><br>---<br><br>## 💼 Projects<br><br>### 🔍 Network Port Scanner<br>Python-based multi-threaded port scanner.<br><br>### 🔐 Password Strength Checker<br>Checks password security and provides suggestions.<br><br>### 🤖 Ashwatthama AI Assistant<br>Personal AI assistant built with Python.<br><br>---<br><br>## 🎯 Goals for 2026<br><br>- Complete BCA Successfully<br>- Build Ashwatthama AI Assistant<br>- Master Python Development<br>- Learn Machine Learning Fundamentals<br>- Upload 10+ Quality Projects on GitHub<br>- Become Internship Ready<br>- Prepare for Higher Studies and Research Opportunities<br><br>---<br><br>## 📈 Current Focus<br><br> Python Development<br>        ↓<br>       DSA<br>        ↓<br>  Project Building<br>        ↓<br>  Machine Learning<br>        ↓<br>  AI Development<br><br>---<br><br>## 📫 Connect With Me<br><br>📧 Email: mehullohar07@gmail.com<br><br>💻 GitHub: https://github.com/mehullohar07<br><br>---<br><br>⭐ "Learning, Building and Improving Every Day."<br>
+# Hi, I'm Mehul Lohar 👋
 
+🎓 BCA Student (5th Semester)
+
+💻 Python Developer | AI Enthusiast | Future Software Engineer
+
+🤖 Currently Building: Ashwatthama AI Assistant
+
+🔐 Interested in Artificial Intelligence, Cybersecurity and Software Development
+
+---
+
+## 🚀 About Me
+
+- Pursuing BCA
+- Learning Python and Software Development
+- Building real-world projects to improve programming skills
+- Exploring Artificial Intelligence and Machine Learning
+- Passionate about creating useful applications and automation tools
+
+---
+
+## 🛠 Skills
+
+### Programming
+- Python
+- SQL
+
+### Development
+- Object-Oriented Programming (OOP)
+- Software Engineering Fundamentals
+- Advanced Web Development
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+### Fundamentals
+- Networking Basics
+- Problem Solving
+- Debugging
+
+---
+
+## 📚 Currently Learning
+
+- Python Development
+- Data Structures & Algorithms (DSA)
+- Software Engineering
+- Advanced Web Development
+- Artificial Intelligence
+- Machine Learning Fundamentals
+
+---
+
+## 🤖 Featured Project
+
+### Ashwatthama AI Assistant
+
+A Python-based personal assistant currently under development.
+
+#### Features
+
+- Chat Commands
+- PC Automation
+- Open Notepad
+- Open Calculator
+- Open Chrome
+- Open Paint
+- Open VS Code
+- Current Date & Time
+- Modular Project Structure
+
+**Status:** Active Development 🚀
+
+---
+
+## 💼 Projects
+
+### 🔍 Network Port Scanner
+Python-based multi-threaded port scanner.
+
+### 🔐 Password Strength Checker
+Checks password security and provides suggestions.
+
+### 🤖 Ashwatthama AI Assistant
+Personal AI assistant built with Python.
+
+---
+
+## 🎯 Goals for 2026
+
+- Complete BCA Successfully
+- Build Ashwatthama AI Assistant
+- Master Python Development
+- Learn Machine Learning Fundamentals
+- Upload 10+ Quality Projects on GitHub
+- Become Internship Ready
+- Prepare for Higher Studies and Research Opportunities
+
+---
+
+## 📈 Current Focus
+
+ Python Development
+        ↓
+       DSA
+        ↓
+  Project Building
+        ↓
+  Machine Learning
+        ↓
+  AI Development
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: mehullohar07@gmail.com
+
+💻 GitHub: https://github.com/mehullohar07
+
+---
+
+⭐ "Learning, Building and Improving Every Day."
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehuuuull ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehullohar07 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehullohar07@gmail.com) 
