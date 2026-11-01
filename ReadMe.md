@@ -112,7 +112,6 @@ A Python application that evaluates password strength and provides security impr
 - Email: "mehullohar07@gmail.com" (mailto:mehullohar07@gmail.com)
 - GitHub: "@mehullohar07" (https://github.com/mehullohar07)
 - LinkedIn: "Mehul Lohar" (https://www.linkedin.com/in/mehullohar07/)
-- [Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehuuuull )
 
 ---
 
